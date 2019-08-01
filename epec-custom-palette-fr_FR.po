@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Colors Palette by Promo EPEC\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-01 09:29+0000\n"
+"PO-Revision-Date: 2019-08-01 09:31+0000\n"
+"Last-Translator: admin <abbasyaser989@gmail.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. Name of the plugin
+msgid "Custom Colors Palette by Promo EPEC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://votre-site.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/yaser989/epec-custom-palette.git"
+msgstr ""
+
+#: epec-custom-palette.php:20
+msgid "light-grayish-magenta"
+msgstr "magenta claire"
+
+#: epec-custom-palette.php:14
+msgid "strong-magenta"
+msgstr "magenta foncé"
+
+#. Description of the plugin
+msgid "Un plugin d'introduction pour le développement sous WordPress"
+msgstr ""
+
+#: epec-custom-palette.php:26
+msgid "Very Dark Grey"
+msgstr "gris trés sombre"
+
+#: epec-custom-palette.php:32
+msgid "white"
+msgstr "blanc"
+
+#. Author of the plugin
+msgid "Yaser"
+msgstr ""
