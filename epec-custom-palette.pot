@@ -28,11 +28,11 @@ msgid "https://github.com/yaser989/epec-custom-palette.git"
 msgstr ""
 
 #: epec-custom-palette.php:20
-msgid "light-grayish-magenta"
+msgid "brand-color-1"
 msgstr ""
 
 #: epec-custom-palette.php:14
-msgid "strong-magenta"
+msgid "brand-Color-2"
 msgstr ""
 
 #. Description of the plugin
